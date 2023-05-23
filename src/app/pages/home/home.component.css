@@ -6,4 +6,9 @@
   justify-content: center;
 }
 
+.articles__others > .title-section {
+  font-size: 20px;
+  margin-bottom: 16px;
+}
+
 
